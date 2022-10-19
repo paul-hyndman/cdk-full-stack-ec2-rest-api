@@ -1,4 +1,4 @@
-# Project highlights how, usind CDK, to expose an EC2-based public REST API via a non-standard HTTP port
+# Project highlights how, using CDK, to expose an EC2-based public REST API via a non-standard HTTP port
 # Also illustrates how to load custom code via a user-data script
 
 # Project creates AWS artifacts:
