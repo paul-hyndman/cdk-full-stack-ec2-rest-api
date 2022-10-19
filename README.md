@@ -40,4 +40,5 @@ To create the web server:<br>
 &nbsp;&nbsp;&nbsp;- From project root run "cdk init" to check for errors, then "cdk deploy CustomEc2Stack --require-approval never"<br>
     7.  Use example URL below (IP address or public LB) to send GET request to app:
 	    # http://webserveralb-934497190.us-east-1.elb.amazonaws.com:1025/mostpopular/jane insured,jane insured,joe insured,joe insured,homer simpson,homer simpson,homer simpson, marge simpson
-&nbsp;&nbsp;&nbsp;- It may take a couple minutes for AWS to recognize/load the app.  System may show 503 Bad Gateway until readys<br>
+&nbsp;&nbsp;&nbsp;
+<br>- It may take a couple minutes for AWS to recognize/load the app.  System may show 503 Bad Gateway until readys<br>
